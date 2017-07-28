@@ -1,0 +1,3 @@
+# How to deploy...
+1. `heroku create`
+2. `git push heroku master`
